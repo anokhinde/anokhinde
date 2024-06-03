@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Dmitry!++;Let's+data%2C+let's+rock!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=435&lines=Hi!+My+name+is+Dmitry!++;Let's+explore%2C+let's+rock!)](https://git.io/typing-svg)
 
 <!--
 **anokhinde/anokhinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
