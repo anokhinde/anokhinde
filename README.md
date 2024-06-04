@@ -5,23 +5,22 @@
 **anokhinde/anokhinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my CV 😄
+- 🌱 I’m currently learning [Practical Statistics for Data Scientists](https://github.com/anokhinde/practical-statistics-for-data-scientists) and [SQL for Data Analysis](https://github.com/cathytanimura/sql_book)
+- 💬 Ask me about Vertical Farming
+- 📫 How to reach me: [Telegram](https://t.me/anokhinde)
+- ⚡ Fun fact: 油菜, 青菜, 白菜 it's the same vegetable.
+
+<!--
 |Название проекта| Описание проекта| Стек|
-|A/B тест. Анализ новой механики системы оплаты покупок (https://github.com/anokhinde/ab_new_mechanics)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|pandas,numpy,seaborn, matplotlib,scipy,requests|
 |----------------|-----------------|-----|
-|----------------|-----------------|-----|
-|----------------|-----------------|-----|
+|Анализ новой механики системы оплаты покупок ([GitHub](https://github.com/anokhinde/ab_new_mechanics))|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|pandas,numpy,seaborn, matplotlib,scipy,requests|
+|([GitHub](https://github.com/anokhinde/e_learning))|-----------------|-----|
+|([GitHub]())|-----------------|-----|
+-->
 
-
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="text-align: center;">
