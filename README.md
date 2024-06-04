@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|Название проекта| Описание проекта| Стек|
+|A/B тест. Анализ новой механики системы оплаты покупок (https://github.com/anokhinde/ab_new_mechanics)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|pandas,numpy,seaborn, matplotlib,scipy,requests|
+|----------------|-----------------|-----|
+|----------------|-----------------|-----|
+|----------------|-----------------|-----|
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="text-align: center;">
@@ -35,13 +42,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-|Название проекта| Описание проекта| Стек|
-|A/B тест. Анализ новой механики системы оплаты покупок (https://github.com/anokhinde/ab_new_mechanics)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, Bootstrap).|pandas,numpy,seaborn, matplotlib,scipy,requests|
-|----------------|-----------------|-----|
-|----------------|-----------------|-----|
-|----------------|-----------------|-----|
--->
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anokhinde&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
