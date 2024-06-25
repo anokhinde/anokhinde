@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 </div>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anokhinde&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anokhinde&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anokhinde&theme=solarized_dark)
